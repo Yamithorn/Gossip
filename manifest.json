@@ -844,15 +844,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "Wr2cDxgt7gK6yJIT/onsvg=="
+          "hash": "wzboHSPA3NnZmJmEsng3gg=="
         }
       },
       "is_incremental": false,
